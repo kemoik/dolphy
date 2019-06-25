@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933443688239",
+    "firebase_url": "https://brand-9e6c7.firebaseio.com",
+    "project_id": "brand-9e6c7",
+    "storage_bucket": "brand-9e6c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933443688239:android:b4b7a19dbf7da9d8",
+        "android_client_info": {
+          "package_name": "com.example.dolphy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933443688239-a9a9v7vp5dj1spd1f3bbgn3nsi32e0km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dolphy",
+            "certificate_hash": "2cc634945d407b871329fbe7d8afe28744c462ab"
+          }
+        },
+        {
+          "client_id": "933443688239-34r47lcdknkarl0krl8cbpg61tgb6a8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyXC2tvwK6yBCiE3cqpPEvfEP_t2vBLr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933443688239-34r47lcdknkarl0krl8cbpg61tgb6a8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
